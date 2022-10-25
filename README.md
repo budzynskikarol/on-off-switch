@@ -1,4 +1,4 @@
-# On / Off Switch - Karol Budzyński
+# On / Off Switch
 
 Project created in HTML, CSS, JavaScript
 
